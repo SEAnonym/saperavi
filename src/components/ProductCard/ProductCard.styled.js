@@ -13,6 +13,7 @@ export const ProductCard = styled.div`
 
   .product-image-container {
     img {
+      object-fit: cover;
       width: 15rem;
       height: 25rem;
       border-radius: 1rem 1rem 0 0;
