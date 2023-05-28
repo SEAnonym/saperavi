@@ -9,7 +9,7 @@ export default function ProductCard({ product }) {
     <Styled.ProductCard>
       <Link to={`/products/${product.id}`}>
         <figure className="product-image-container">
-          <img src="assets/images/wine-bottle.jpg" alt="" />
+          <img src={product.image} alt="" />
         </figure>
         <div className="product-description-container">
           <span className="product__name">
