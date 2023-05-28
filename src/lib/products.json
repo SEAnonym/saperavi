@@ -1,0 +1,26 @@
+[
+  {
+    "id": "111",
+    "name": "Product Name",
+    "year": 2000,
+    "price": "99.00",
+    "image": "/assets/images/wine-bottle.jpg",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum aliquam adipisci placeat delectus dolor amet pariatur magni deserunt nihil hic, cupiditate rerum beatae praesentium voluptatum obcaecati molestias quidem sed consequuntur."
+  },
+  {
+    "id": "112",
+    "name": "Product Name",
+    "year": 2000,
+    "price": "99.00",
+    "image": "/assets/images/wine-bottle.jpg",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum aliquam adipisci placeat delectus dolor amet pariatur magni deserunt nihil hic, cupiditate rerum beatae praesentium voluptatum obcaecati molestias quidem sed consequuntur."
+  },
+  {
+    "id": "113",
+    "name": "Product Name",
+    "year": 2000,
+    "price": "99.00",
+    "image": "/assets/images/wine-bottle.jpg",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum aliquam adipisci placeat delectus dolor amet pariatur magni deserunt nihil hic, cupiditate rerum beatae praesentium voluptatum obcaecati molestias quidem sed consequuntur."
+  }
+]

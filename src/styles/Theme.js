@@ -1,7 +1,7 @@
 const theme = {
   colors: {
-    text: "white",
-    backgroundColor: "black",
+    text: "black",
+    backgroundColor: "white",
   },
   fontSize: {
     sm: "1rem",

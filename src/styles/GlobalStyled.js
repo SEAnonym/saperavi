@@ -16,8 +16,8 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: 'Great Vibes', cursive;
-  font-size: 1.6rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4rem;
   color: ${({ theme }) => theme.colors.text};
   background-color: ${({ theme }) => theme.colors.backgroundColor};
 }

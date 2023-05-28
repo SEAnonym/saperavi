@@ -3,9 +3,13 @@ import styled from "styled-components";
 export const ProductCard = styled.div`
   width: fit-content;
   padding: 0.5rem;
-  border: 1px solid white;
+  box-shadow: 5px 10px 15px 0 rgb(0, 0, 0, 50);
   border-radius: 1rem;
   overflow: hidden;
+
+  a {
+    background: red;
+  }
 
   .product-image-container {
     img {
@@ -14,8 +18,9 @@ export const ProductCard = styled.div`
       border-radius: 1rem 1rem 0 0;
     }
   }
+
   .product-description-container {
-    font-size: ${({ theme }) => theme.fontSize.xl};
+    font-size: ${({ theme }) => theme.fontSize.base};
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,8 +32,8 @@ export const ProductCard = styled.div`
     align-items: center;
     justify-content: space-between;
   }
+
   .product__price {
     font-size: ${({ theme }) => theme.fontSize.ul};
   }
 `;
-// rgb(255,255,255)

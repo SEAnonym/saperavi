@@ -20,7 +20,7 @@ const SliderButtonEl = styled.button`
     theme.mode === "light"
       ? theme.shadow.radial_sm_dark
       : theme.shadow.radial_sm_light};
-  color: ${({ theme }) => theme.colors.white};
+  color: ${({ theme }) => theme.colors.backgroundColor};
   border-radius: 100%;
 
   ${({ direction }) =>

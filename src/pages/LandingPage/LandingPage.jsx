@@ -11,7 +11,7 @@ export default function LandingPage(props) {
     <Styled.LandingPage>
       <Navigation />
       <Hero />
-      <ProductCardsContainer />
+      <ProductCardsContainer limit={2} />
       <Footer />
     </Styled.LandingPage>
   );
