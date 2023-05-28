@@ -10,6 +10,7 @@ const theme = {
     xl: "1.6rem",
     xxl: "1.8rem",
     ul: "2.2rem",
+    biggest: "3rem",
   },
   shadow: {
     bottom_right_md_dark: "3px 3px 9px 0px rgba(0, 0, 0, 0.75)",

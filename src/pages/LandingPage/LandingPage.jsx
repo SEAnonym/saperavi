@@ -1,5 +1,10 @@
 import * as Styled from "./LandingPage.styled";
-import { Navigation, Hero, ProductCardsContainer } from "../../components";
+import {
+  Navigation,
+  Hero,
+  ProductCardsContainer,
+  Footer,
+} from "../../components";
 
 export default function LandingPage(props) {
   return (
@@ -7,6 +12,7 @@ export default function LandingPage(props) {
       <Navigation />
       <Hero />
       <ProductCardsContainer />
+      <Footer />
     </Styled.LandingPage>
   );
 }
