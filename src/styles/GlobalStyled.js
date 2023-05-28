@@ -17,7 +17,7 @@ html {
 }
 body {
   font-family: 'Great Vibes', cursive;
-  font-size: 2rem;
+  font-size: 1.6rem;
   color: ${({ theme }) => theme.colors.text};
   background-color: ${({ theme }) => theme.colors.backgroundColor};
 }
