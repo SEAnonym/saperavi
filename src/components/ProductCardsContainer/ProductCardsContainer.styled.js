@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ProductCardsContainer = styled.div`
   margin: 2rem 0 2rem 0;
-  padding: 2rem;
+  padding: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
